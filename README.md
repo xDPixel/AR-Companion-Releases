@@ -63,7 +63,7 @@ All packages are standalone, native builds compiled directly for target operatin
 
 - **Real-Time Synchronized Clocks**: Countdown clocks for active and upcoming surface events.
 - **Server Region Filtering**: Switch between Europe, North America, East Asia, Oceania, and South America to get server-precise schedules.
-- **Hazard Classifications**: Clear distinction between Major Hazards (Night Raids, EMP Storms, Hurricane Winds) and Tactical Opportunities (Supply Pod Drops, Husk Graveyards).
+- **Hazard Classifications**: Clear distinction between Major Hazards (Night Raid, Electromagnetic Storm, Locked Gate, ARC Frigate, Cold Snap) and Minor Tactical Opportunities (Harvester, Matriarch, Launch Tower Loot, Husk Graveyard, Uncovered Caches).
 - **One-Tap Comms Notification Bell**: Directly toggle push alert tracking on or off for each specific event card.
 
 ---

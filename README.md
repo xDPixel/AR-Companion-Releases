@@ -131,7 +131,7 @@ All packages are standalone, native builds compiled directly for target operatin
 > Quick tactical shortcuts, Speranza trader inventory pricing, mission guides, and loadout calculators.
 
 <p align="center">
-  <img src="screenshots/04_live_raid_events.png" alt="Raider Hub and Tools" width="550" style="border-radius: 14px; border: 1px solid #334155;" />
+  <img src="screenshots/05_raider_hub.png" alt="Raider Hub and Tools" width="550" style="border-radius: 14px; border: 1px solid #334155;" />
 </p>
 
 - **Speranza Traders**: Quick reference for Celeste, Tian, Ermal, and full shop inventory exchange rates.

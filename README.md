@@ -28,10 +28,6 @@
 
 ---
 
-> [!NOTE]
-> **Official Distribution Portal**: This repository is dedicated exclusively to hosting compiled native binary releases and installation packages for **ARC Raiders Companion**. For the full open-source Flutter codebase and technical documentation, visit the [Core Repository](https://github.com/xDPixel/AR-Companion---Flutter-core).
-
----
 
 ## 📥 Official Downloads (Latest Release: v1.0.3)
 

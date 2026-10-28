@@ -35,11 +35,11 @@ All packages are compiled natively for their target operating systems. Choose yo
 
 | Platform | Package File | Architecture | Size | Direct Download |
 | :--- | :--- | :---: | :---: | :---: |
-| 🪟 **Windows** | `ArcRaidersCompanion-Windows.exe` | Inno Setup Installer (x64) | `39.0 MB` | [⬇️ Download Installer (.exe)](https://github.com/xDPixel/AR-Companion-Releases/releases/download/v1.0.3/ArcRaidersCompanion-Windows.exe) |
-| 🤖 **Android** | `ArcRaidersCompanion-Android.apk` | Universal Release APK | `86.5 MB` | [⬇️ Download Android (.apk)](https://github.com/xDPixel/AR-Companion-Releases/releases/download/v1.0.3/ArcRaidersCompanion-Android.apk) |
-| 📱 **iOS** | `ArcRaidersCompanion-iOS-unsigned.ipa` | Sideloadable Package | `51.1 MB` | [⬇️ Download iOS (.ipa)](https://github.com/xDPixel/AR-Companion-Releases/releases/download/v1.0.3/ArcRaidersCompanion-iOS-unsigned.ipa) |
-| 🍏 **macOS** | `ArcRaidersCompanion-macOS.zip` | Universal App Bundle (Apple Silicon & Intel) | `52.0 MB` | [⬇️ Download macOS (.zip)](https://github.com/xDPixel/AR-Companion-Releases/releases/download/v1.0.3/ArcRaidersCompanion-macOS.zip) |
-| 🐧 **Linux** | `ArcRaidersCompanion-Linux-x64.tar.gz` | Desktop Bundle (x86_64) | `39.3 MB` | [⬇️ Download Linux (.tar.gz)](https://github.com/xDPixel/AR-Companion-Releases/releases/download/v1.0.3/ArcRaidersCompanion-Linux-x64.tar.gz) |
+|  **Windows** | `ArcRaidersCompanion-Windows.exe` | Inno Setup Installer (x64) | `39.0 MB` | [⬇️ Download Installer (.exe)](https://github.com/xDPixel/AR-Companion-Releases/releases/download/v1.0.3/ArcRaidersCompanion-Windows.exe) |
+|  **Android** | `ArcRaidersCompanion-Android.apk` | Universal Release APK | `86.5 MB` | [⬇️ Download Android (.apk)](https://github.com/xDPixel/AR-Companion-Releases/releases/download/v1.0.3/ArcRaidersCompanion-Android.apk) |
+|  **iOS** | `ArcRaidersCompanion-iOS-unsigned.ipa` | Sideloadable Package | `51.1 MB` | [⬇️ Download iOS (.ipa)](https://github.com/xDPixel/AR-Companion-Releases/releases/download/v1.0.3/ArcRaidersCompanion-iOS-unsigned.ipa) |
+|  **macOS** | `ArcRaidersCompanion-macOS.zip` | Universal App Bundle (Apple Silicon & Intel) | `52.0 MB` | [⬇️ Download macOS (.zip)](https://github.com/xDPixel/AR-Companion-Releases/releases/download/v1.0.3/ArcRaidersCompanion-macOS.zip) |
+|  **Linux** | `ArcRaidersCompanion-Linux-x64.tar.gz` | Desktop Bundle (x86_64) | `39.3 MB` | [⬇️ Download Linux (.tar.gz)](https://github.com/xDPixel/AR-Companion-Releases/releases/download/v1.0.3/ArcRaidersCompanion-Linux-x64.tar.gz) |
 
 ---
 
